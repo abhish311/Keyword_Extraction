@@ -2,6 +2,6 @@
 Extracting the keywords from Pdf File.
 
 Libraries Used:
-  PyPDF2
-  pandas
-  sklearn
+  1.PyPDF2
+  2.pandas
+  3.sklearn
